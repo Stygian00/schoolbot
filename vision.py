@@ -11,3 +11,6 @@ def extract_text_from_image(image_path):
     # use pytesseract to extract text from the binary image
     text = pytesseract.image_to_string(binary)
     return text
+
+#im checking chreey pick command from feture_cli branch 
+#add a new line to check the pull request
